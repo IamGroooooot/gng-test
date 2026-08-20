@@ -1,6 +1,6 @@
 # GNG Experiential Game Hackathon Starter
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/guersam/gng-hackathon-starter)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/iamgroooooot/gng-test)
 
 > 게임을 먼저 실행해 보려면 위 Deploy 버튼을 사용한다. 코드를 수정할 참가자는 GitHub의 **Use this template**으로 자기 저장소를 만든 뒤, 아래 Wrangler 절차로 자기 Cloudflare 계정에 배포한다.
 

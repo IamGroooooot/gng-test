@@ -3,15 +3,15 @@ export function StarterHome() {
     <main className="starter-home">
       <header>
         <h1>
-          <span>두 게임을 먼저</span>
+          <span>Test 두 게임을 먼저</span>
           <span>해 보세요.</span>
         </h1>
-        <p className="lead">만들고 싶은 게임과 가까운 쪽을 골라서 바꿔 보세요. 원본을 남기고 싶다면 복사해서 새 게임을 만들 수도 있습니다.</p>
+        <p className="lead">Test 만들고 싶은 게임과 가까운 쪽을 골라서 바꿔 보세요. 원본을 남기고 싶다면 복사해서 새 게임을 만들 수도 있습니다.</p>
       </header>
       <section className="starter-games" aria-label="기준 게임 선택">
         <a href="/yoil" className="starter-game">
           <span>여러 기기로 하는 팀 게임</span>
-          <h2>요일 천재</h2>
+          <h2>Test 요일 천재</h2>
           <p>여러 휴대전화로 함께하는 게임입니다. 9초마다 정해진 요일을 누르면서 날짜 문제를 풉니다.</p>
           <strong>게임 해 보기 →</strong>
         </a>
